@@ -81,14 +81,14 @@
 
 <meta name="description" content="你好！我叫黄东旭！">
 <meta property="og:type" content="article">
-<meta property="og:title" content="simpe">
+<meta property="og:title" content="simple">
 <meta property="og:url" content="http://huangxv.xyz/uncategorized/hello-world">
-<meta property="og:site_name" content="simpe">
+<meta property="og:site_name" content="simple">
 <meta property="og:description" content="你好！我叫黄东旭！">
 <meta property="og:locale" content="default">
 <meta property="og:updated_time" content="2019-01-26T10:03:16.972Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="simpe">
+<meta name="twitter:title" content="simple">
 <meta name="twitter:description" content="你好！我叫黄东旭！">
 
 
@@ -125,7 +125,7 @@
 
 
 
-  <title> | simpe</title>
+  <title> | simple</title>
   
 
 
@@ -155,7 +155,7 @@
     <div class="custom-logo-site-title">
       <a href="/" class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">simpe</span>
+        <span class="site-title">simple</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
@@ -235,13 +235,13 @@
     <link itemprop="mainEntityOfPage" href="http://huangxv.xyz/uncategorized/hello-world">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="黄东旭">
+      <meta itemprop="name" content="煦煦">
       <meta itemprop="description" content="">
       <meta itemprop="image" content="/images/avatar.gif">
     </span>
 
     <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="simpe">
+      <meta itemprop="name" content="simple">
     </span>
 
     
@@ -389,7 +389,7 @@
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
             
-              <p class="site-author-name" itemprop="name">黄东旭</p>
+              <p class="site-author-name" itemprop="name">煦煦</p>
               <p class="site-description motion-element" itemprop="description"></p>
           </div>
 
@@ -445,7 +445,7 @@
   <span class="with-love">
     <i class="fa fa-user"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">黄东旭</span>
+  <span class="author" itemprop="copyrightHolder">煦煦</span>
 
   
 </div>
