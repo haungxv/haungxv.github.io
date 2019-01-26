@@ -79,17 +79,17 @@
 
 
 
-<meta name="description" content="黄东旭黄东小旭">
+<meta name="description" content="你好！我叫黄东旭！">
 <meta property="og:type" content="article">
-<meta property="og:title" content="newpapername">
-<meta property="og:url" content="http://yoursite.com/2019/01/26/newpapername/index.html">
-<meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="黄东旭黄东小旭">
+<meta property="og:title" content="simpe">
+<meta property="og:url" content="http://huangxv.xyz/uncategorized/hello-world">
+<meta property="og:site_name" content="simpe">
+<meta property="og:description" content="你好！我叫黄东旭！">
 <meta property="og:locale" content="default">
-<meta property="og:updated_time" content="2019-01-26T10:06:04.748Z">
+<meta property="og:updated_time" content="2019-01-26T10:03:16.972Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="newpapername">
-<meta name="twitter:description" content="黄东旭黄东小旭">
+<meta name="twitter:title" content="simpe">
+<meta name="twitter:description" content="你好！我叫黄东旭！">
 
 
 
@@ -119,13 +119,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/2019/01/26/newpapername/">
+  <link rel="canonical" href="http://huangxv.xyz/uncategorized/hello-world">
 
 
 
 
 
-  <title>newpapername | Hexo</title>
+  <title> | simpe</title>
   
 
 
@@ -155,7 +155,7 @@
     <div class="custom-logo-site-title">
       <a href="/" class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">Hexo</span>
+        <span class="site-title">simpe</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
@@ -232,16 +232,16 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/01/26/newpapername/">
+    <link itemprop="mainEntityOfPage" href="http://huangxv.xyz/uncategorized/hello-world">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="John Doe">
+      <meta itemprop="name" content="黄东旭">
       <meta itemprop="description" content="">
       <meta itemprop="image" content="/images/avatar.gif">
     </span>
 
     <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Hexo">
+      <meta itemprop="name" content="simpe">
     </span>
 
     
@@ -249,7 +249,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">newpapername</h1>
+          <h1 class="post-title" itemprop="name headline"></h1>
         
 
         <div class="post-meta">
@@ -261,7 +261,7 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-01-26T18:03:48+08:00">
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-01-26T15:16:46+08:00">
                 2019-01-26
               </time>
             
@@ -299,7 +299,8 @@
       
 
       
-        <h3 id="黄东旭"><a href="#黄东旭" class="headerlink" title="黄东旭"></a>黄东旭</h3><h5 id="黄东小旭"><a href="#黄东小旭" class="headerlink" title="黄东小旭"></a>黄东小旭</h5>
+        <p>你好！<br>我叫黄东旭！</p>
+
       
     </div>
     
@@ -323,15 +324,15 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2019/01/26/hello-world/" rel="next" title="">
-                <i class="fa fa-chevron-left"></i> 
-              </a>
-            
           </div>
 
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
+            
+              <a href="/uncategorized/newpapername" rel="prev" title="newpapername">
+                newpapername <i class="fa fa-chevron-right"></i>
+              </a>
             
           </div>
         </div>
@@ -383,21 +384,12 @@
       
 
       
-        <ul class="sidebar-nav motion-element">
-          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
-            Table of Contents
-          </li>
-          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
-            Overview
-          </li>
-        </ul>
-      
 
-      <section class="site-overview-wrap sidebar-panel">
+      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
             
-              <p class="site-author-name" itemprop="name">John Doe</p>
+              <p class="site-author-name" itemprop="name">黄东旭</p>
               <p class="site-description motion-element" itemprop="description"></p>
           </div>
 
@@ -436,22 +428,6 @@
       </section>
 
       
-      <!--noindex-->
-        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
-          <div class="post-toc">
-
-            
-              
-            
-
-            
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#黄东旭"><span class="nav-number">1.</span> <span class="nav-text">黄东旭</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#黄东小旭"><span class="nav-number">1.0.1.</span> <span class="nav-text">黄东小旭</span></a></li></ol></li></ol></div>
-            
-
-          </div>
-        </section>
-      <!--/noindex-->
-      
 
       
 
@@ -469,7 +445,7 @@
   <span class="with-love">
     <i class="fa fa-user"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">John Doe</span>
+  <span class="author" itemprop="copyrightHolder">黄东旭</span>
 
   
 </div>
